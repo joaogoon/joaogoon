@@ -7,8 +7,12 @@
 )](https://discord.gg/3jEsKHpm) 
 [![LInkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joaogon/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://api.whatsapp.com/send/?phone=32991075317&text&type=phone_number&app_absent=0) 
 
 ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogoon&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogoon)](https://github.com/joaogoon/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -21,8 +25,8 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-## Outros contato:
-
-- [WhatsApp](https://api.whatsapp.com/send/?phone=32991075317&text&type=phone_number&app_absent=0)
+## Me envie um e-mail:
 
 - [E-mail](mailto:joaovitoragoncalves13@gmail.com?subject=Olhei%20seu%20perfil%20no%20GitHub!&body=Ol%C3%A1%20Jo%C3%A3o%2C%20tudo%20bem%3F%20visualizei%20seu%20perfil%20no%20GitHub%20e%20tenho%20interesse%20em%20seu%20trabalho.%20Podemos%20conversar%3F)
+
+
